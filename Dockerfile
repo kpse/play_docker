@@ -1,5 +1,5 @@
 FROM ingensi/play-framework:latest
-MAINTAINER <louis.suo@myob.com>
+MAINTAINER Louis SUO <louis.suo@myob.com>
 
 RUN yum makecache fast
 
