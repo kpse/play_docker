@@ -13,6 +13,4 @@ RUN echo "finish cloning"
 
 WORKDIR /app/app
 
-RUN echo `ls -la`
-
 CMD ["activator", "run"]
